@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hezninja, your friendly neighbourhood full-stack developer.
 - 👀 I like to build automated trading bots, market analysis algorithms and experiment with quantum generators.
-- 🌱 Im a full-stack developer primarily developing Shopify Themes, Apps, Wordpress & custom React applications.
+- 🌱 Im a full-stack web developer primarily building Shopify Themes & Apps, Wordpress Plugins & React applications.
 - 📫 I'm down for collaboration on anything weird and out of the ordinary. me@hez.ninja
 
 <!---
