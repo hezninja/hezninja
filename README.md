@@ -2,6 +2,7 @@
 - 🤖 I like to build automated trading bots, market analysis algorithms and experiment with quantum mechanics. Really.
 - 🌱 Im a full-stack web developer primarily building Shopify Themes / Apps, Wordpress Plugins & React Applications.
 - 📫 But I'm also down for collaboration on anything weird and out of the ordinary. me@hez.ninja
+- 🥷 Gists: https://gist.github.com/hezninja
 
 <!---
 hezninja/hezninja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
